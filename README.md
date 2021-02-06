@@ -21,3 +21,7 @@ d. was there any one bike (id) that had the longest or shortest duration (outlie
 e. Add in map reflecting start of stop locations (as lat/log data is already included)
 
  # perhaps add in weather data as a comparison - is there a correlation between weather and duration, or number of trips?
+
+
+
+t
