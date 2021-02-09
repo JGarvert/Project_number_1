@@ -133,3 +133,6 @@ Resources/
 
 #.DS_Store
 .DS_Store
+
+#config file
+config.py
